@@ -1,5 +1,5 @@
-# #desafio-consulta-cpf
-DDesafio do Bootcamp "Ruby Developer da DIO" - Consulta de CPF
+# Desafio-Consulta-CPF
+Desafio do Bootcamp "Ruby Developer da DIO" - Consulta de CPF
 
 Objetivo Geral:
 -Criar um programa na linguagem Ruby utiloizando uma gem específica;
